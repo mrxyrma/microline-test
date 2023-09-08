@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/microline-test/static/js/main.f1429bb2.js",
+    "index.html": "/microline-test/index.html",
+    "main.f1429bb2.js.map": "/microline-test/static/js/main.f1429bb2.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f1429bb2.js"
+  ]
+}
